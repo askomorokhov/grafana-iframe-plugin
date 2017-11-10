@@ -1,0 +1,9 @@
+{
+  "type": "app",
+  "name": "Simple App",
+  "id": "simple-app",
+  "includes": [
+    {"type": "dashboard", "name": "simple-dashboard", "path": "simple-dashboard.json"},
+    {"type": "panel", "name": "simple-app-panel"}
+  ]
+}
